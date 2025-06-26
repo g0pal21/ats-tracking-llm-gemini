@@ -1,4 +1,4 @@
-# Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro
+# Resume-ATS-Tracking-LLM-Project
 
 # Overview
 
